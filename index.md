@@ -501,7 +501,7 @@ This comprehensive C programming course takes you from beginner to advanced leve
 
 ## 🚀 Getting Started
 
-1. **Setup Environment**: Follow prerequisites.md
+1. **Setup Environment**: Follow setup.md
 2. **Begin Learning**: Start with Chapter 1
 3. **Practice Daily**: Complete exercises and challenges
 4. **Build Projects**: Complete all milestone projects
